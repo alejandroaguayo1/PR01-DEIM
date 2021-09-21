@@ -17,6 +17,7 @@ public class InitGame : MonoBehaviour
         print(nombre1);
         print(nombre1 + nombre);
         print(x + y);
+        print(nombre2);
     }
 
     // Update is called once per frame
