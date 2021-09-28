@@ -8,7 +8,9 @@ public class Ejercicio3a : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        print("Saludo" + "saludo");
         print(saludo);
+
     }
 
     // Update is called once per frame
@@ -16,4 +18,9 @@ public class Ejercicio3a : MonoBehaviour
     {
         
     }
+    public void Saludo()
+    {
+        print("hola");
+    }  
 }
+
