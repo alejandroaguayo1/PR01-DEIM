@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Ejercicio2d : MonoBehaviour
-{//4a 2
+{
     
     // Start is called before the first frame update
     void Start()
@@ -37,4 +37,4 @@ public class Ejercicio2d : MonoBehaviour
         }
     }
 }
-//bool
+
